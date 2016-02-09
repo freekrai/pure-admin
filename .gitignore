@@ -1,2 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
+.DS_Store*
+.tmp
 .idea
+.idea_modules
+node_modules
+npm-debug.log
+bower_components
+garbage
