@@ -27,8 +27,6 @@ Folder Structure
 --- Theme (Collapse templates)
 ---- Basic (Theme Name and main folder of theme)
 
--- twig (same folder structure with jade)
-
 - prod (production package - always generated from dev folder datas)
 ```
 
@@ -36,6 +34,7 @@ Use Popular Technologies
 ------------------------
 * gulp and grunt
 * yeoman (not yet)
+* sass
 * bower
 * babel
-* jade and twig
+* jade
