@@ -1,0 +1,25 @@
+{
+	"name": "Pure Admin",
+	"version": "0.1.0",
+	"description": "Pure Admin Theme",
+	"banner": [
+		"/*!\n",
+		" * <%= pkg.name %> v<%= pkg.version %> (<%= pkg.homepage %>)\n",
+		" * Copyright 2016-<%= grunt.template.today('yyyy') %> <%= pkg.author %>\n",
+		" * Licensed under the <%= pkg.license %> license\n",
+		" * Generated Date: <%= grunt.template.today('yyyy-mm-dd') %>\n",
+		" */\n"
+	],
+	"dirs": {
+		"main": "src",
+		"pack": "pack",
+		"garbage": "garbage",
+		"mode": "mode",
+		"release": "release"
+	},
+	"path": {
+		"dev": "dev",
+		"prod": "prod",
+		"deploy": "deploy"
+	}
+}
