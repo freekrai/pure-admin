@@ -1,0 +1,42 @@
+{
+	"name": "Pure Admin",
+	"version": "0.1.0",
+	"description": "Pure Admin Theme",
+	"keywords": [
+		"css",
+		"sass",
+		"mobile-first",
+		"responsive",
+		"admin-panel",
+		"purecss",
+		"web-admin"
+	],
+	"homepage": "http://github.com/uretgec/pure-admin",
+	"author": "Uretgec",
+	"license": "MIT",
+	"devDependencies": {
+		"grunt": "~0.4.5",
+		"grunt-autoprefixer": "*",
+		"grunt-combine-media-queries": "*",
+		"grunt-contrib-clean": "*",
+		"grunt-contrib-coffee": "*",
+		"grunt-contrib-concat": "*",
+		"grunt-contrib-connect": "*",
+		"grunt-contrib-copy": "*",
+		"grunt-contrib-cssmin": "*",
+		"grunt-contrib-imagemin": "*",
+		"grunt-contrib-jshint": "*",
+		"grunt-contrib-sass": "*",
+		"grunt-contrib-uglify": "*",
+		"grunt-contrib-watch": "*",
+		"grunt-include-replace": "*",
+		"grunt-newer": "*",
+		"grunt-notify": "*",
+		"grunt-preprocess": "*",
+		"grunt-replace": "*",
+		"grunt-svgmin": "*",
+		"grunt-template": "*",
+		"time-grunt": "*",
+		"jit-grunt": "*"
+	}
+}

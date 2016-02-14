@@ -1,6 +1,6 @@
 {
 	"name": "Pure Admin",
-	"version": "1.0.0",
+	"version": "0.1.0",
 	"description": "Pure Admin Theme",
 	"dependencies": {
 		"jquery": "~2.2.0",
