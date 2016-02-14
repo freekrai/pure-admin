@@ -6,7 +6,7 @@ This version is only development pack included. This is experimental repo and no
 Folder Structure
 ================
 ```html
-- dev (development package data init)
+- src (development package data init)
 -- asset
 --- font
 --- img
@@ -22,6 +22,7 @@ Folder Structure
 --- Block (Collapse elements)
 --- Element (single items)
 --- Layout (Collapse block and modules)
+--- Mixin (Mixed everthing)
 --- Module (Collapse blocks)
 --- Template (Collapse modules)
 --- Theme (Collapse templates)
@@ -32,7 +33,7 @@ Folder Structure
 
 Use Popular Technologies
 ------------------------
-* gulp and grunt
+* gulp and grunt with grunt-jit module
 * yeoman (not yet)
 * sass
 * bower
